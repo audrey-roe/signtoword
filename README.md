@@ -16,13 +16,13 @@ git clone https://github.com/your-username/sign-language-to-words.git
 cd sign-language-to-words
 
 ## Create a virtual environment and activate it:
-python3 -m venv env
-source venv/bin/activate
+python3 -m venv stwenv
+source stwenv/bin/activate
 
 ## Install the required dependencies:
 pip install -r requirements.txt
 
-Download the pre-trained models and data:
+## Download the pre-trained models and data:
 #TODO: Add instructions to download or generate the necessary models and data
 
 ## License
