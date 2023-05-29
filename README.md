@@ -23,7 +23,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 Download the pre-trained models and data:
-# TODO: Add instructions to download or generate the necessary models and data
+#TODO: Add instructions to download or generate the necessary models and data
 
 ## License
 This project is licensed under the MIT License. Feel free to modify and distribute it as needed
