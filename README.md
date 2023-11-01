@@ -12,8 +12,8 @@ Word Generation: The recognized sign gestures are mapped to a dictionary to gene
 
 ## Installation
 Clone the repository:
-git clone https://github.com/your-username/sign-language-to-words.git
-cd sign-language-to-words
+git clone https://github.com/audrey-roe/signtoword.git
+cd signtoword
 
 ## Create a virtual environment and activate it:
 python3 -m venv stwenv
