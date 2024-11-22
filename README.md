@@ -3,7 +3,7 @@ A sign language detection model
 Welcome to the Sign Language to Words Converter repository! This project aims to provide a solution for converting sign language videos into written words using machine learning techniques.
 
 ## Overview
-Sign language is a crucial means of communication for individuals with hearing impairments. However, it can pose challenges when it comes to understanding and translating the signs into spoken or written language. This repository offers a solution by utilizing machine learning algorithms like conputer vision to convert sign language videos into words, enabling better communication and accessibility for everyone.
+Sign language is a crucial means of communication for individuals with hearing impairments. However, it can pose challenges when it comes to understanding and translating the signs into spoken or written language. This repository offers a solution by utilizing machine learning algorithms to convert sign language videos into words, enabling better communication and accessibility for everyone.
 
 ## Features
 Video Processing: The project utilizes computer vision techniques to extract relevant features from sign language videos.
